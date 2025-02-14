@@ -1,1 +1,4 @@
 Hey! this my second commit
+ bug fixed
+ bug fixed
+ bug fixed
